@@ -1,7 +1,7 @@
 {
   "$schema": "https://microsoft.github.io/customlearning_staging/schemas/v4/manifest.json",
   "Telemetry": {
-    "AppInsightKey": ""
+    "AppInsightKey": "9a46dc18-dca7-4f9c-aaf7-1af9ad28fdda"
   },
   "Version": {
     "Manifest": "v4",
@@ -11,7 +11,7 @@
   },
   "ContentPacks": [
     {
-      "Id": "1CD78646-DF78-4347-BC33-4C40D252CA3C",
+      "Id": "a748d357-1879-436f-96fc-20dd1fed87bb",
       "Name": "CB Learning Path Site",
       "Description": "Add the CB Learning Path Site content pack to access playlists that support training CB Site owners on how to create high-impact sites.",
       "Image": "https://pnp.github.io/custom-learning-office-365/sss/v4/en-us/images/categories/AddSSS.png",
