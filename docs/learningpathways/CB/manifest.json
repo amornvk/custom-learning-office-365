@@ -12,8 +12,8 @@
   "ContentPacks": [
     {
       "Id": "319F6347-671A-4A61-A3E8-B77CF3968557",
-      "Name": "SharePoint Success Site",
-      "Description": "Add the SharePoint Success Site content pack to access playlists that support training new SharePoint Site owners on how to create high-impact sites.",
+      "Name": "SharePoint Success Site2",
+      "Description": "2Add the SharePoint Success Site content pack to access playlists that support training new SharePoint Site owners on how to create high-impact sites.",
       "Image": "https://pnp.github.io/custom-learning-office-365/sss/v4/en-us/images/categories/AddSSS.png",
       "ProvisionUrl": "https://lookbook.microsoft.com/details/0b860749-56a0-4c4c-992c-536d56d9accf",
       "CdnBase": "https://pnp.github.io/custom-learning-office-365/sss/"
